@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vital\\source\\repos\\LabAP6.4.rec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB447449-4D4F-4BEC-AD77-FBD752C914C7}|UnitTest6.4.rec\\UnitTest6.4.rec.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP6.4.rec\\UnitTest6.4.rec\\UnitTest6.4.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB447449-4D4F-4BEC-AD77-FBD752C914C7}|UnitTest6.4.rec\\UnitTest6.4.rec.vcxproj|solutionrelative:UnitTest6.4.rec\\UnitTest6.4.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0EC3C5-A30E-4921-829F-976A2EB05C57}|LabAP6.4.rec\\LabAP6.4.rec.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP6.4.rec\\LabAP6.4.rec\\LabAP6.4.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D0EC3C5-A30E-4921-829F-976A2EB05C57}|LabAP6.4.rec\\LabAP6.4.rec.vcxproj|solutionrelative:LabAP6.4.rec\\LabAP6.4.rec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabAP6.4.rec.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP6.4.rec\\LabAP6.4.rec\\LabAP6.4.rec.cpp",
+              "RelativeDocumentMoniker": "LabAP6.4.rec\\LabAP6.4.rec.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP6.4.rec\\LabAP6.4.rec\\LabAP6.4.rec.cpp",
+              "RelativeToolTip": "LabAP6.4.rec\\LabAP6.4.rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T08:13:51.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest6.4.rec.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP6.4.rec\\UnitTest6.4.rec\\UnitTest6.4.rec.cpp",
+              "RelativeDocumentMoniker": "UnitTest6.4.rec\\UnitTest6.4.rec.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP6.4.rec\\UnitTest6.4.rec\\UnitTest6.4.rec.cpp",
+              "RelativeToolTip": "UnitTest6.4.rec\\UnitTest6.4.rec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T08:14:32.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
